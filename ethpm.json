@@ -1,0 +1,16 @@
+{
+  "package_name": "FNC",
+  "version": "0.0.1",
+  "description": "fancoin",
+  "authors": [
+    "Ditry"
+  ],
+  "keywords": [
+    "ethereum",
+    "fancoin"
+  ],
+  "dependencies": {
+    "zeppelin": "^1.3.0"
+  },
+  "license": "MIT"
+}
